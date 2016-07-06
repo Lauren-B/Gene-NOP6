@@ -3,4 +3,4 @@ NOP6 is a gene for a protein necessary for the ribosomal subunit of 40S to work,
 In a BLAST against the nr database the results were mostly the same strain of yeast.
 In a BLAST against the pbd database there was only 1 result, which was the same yeast. 
 In a BLAST against the refseq database the results were mostly different strains of yeast or fungi similar to yeast.
-In a BLAST against the swissprot database the results were not very close to my gene, mostly below 50%.
+In a BLAST against the swissprot database the results were not very close to my gene, but most of them were related to RNA binding proteins, and dealing with (r)RNA.
